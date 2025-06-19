@@ -1,0 +1,2 @@
+Cliente: Andre | Plano: Premium | Data: 2025-06-19
+Cliente: Joao | Plano: Básico | Data: 2025-06-19
